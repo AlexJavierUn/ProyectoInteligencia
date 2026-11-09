@@ -1,0 +1,9 @@
+tensorflow>=2.15,<3
+datasets>=2.18,<5
+nltk>=3.8
+spacy>=3.7,<4
+streamlit>=1.32
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4

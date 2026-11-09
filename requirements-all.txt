@@ -1,0 +1,4 @@
+-r 1_DeteccionDeFraude/requirements.txt
+-r 2_ClasificadorDePrendasDeVestir/requirements.txt
+-r 3_ImagenesPerrosVsGatos/requirements.txt
+-r 4_Analisis_Sentimientos/requirements.txt
